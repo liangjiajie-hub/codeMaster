@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91d67ec4-d6fc-47f2-b8e9-0148375843cc" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="D:/software/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\software\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2aTR7qUz7bdiKo2ZAK8y5Lu1mfF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/learning_project/algorithm&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jiejieren.binary_tree" />
+      <recent name="com.jiejieren.linked_list" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Algorithm459_repeated_substring_pattern">
+    <configuration name="Algorithm150_evaluate_reverse_polish_notation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiejieren.stack_and_queue.Algorithm150_evaluate_reverse_polish_notation" />
+      <module name="codeMaster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiejieren.stack_and_queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Algorithm151_reverse_words" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiejieren.string.Algorithm151_reverse_words" />
+      <module name="codeMaster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiejieren.string.kmp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Algorithm239_sliding_window_maximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiejieren.stack_and_queue.Algorithm239_sliding_window_maximum" />
+      <module name="codeMaster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiejieren.stack_and_queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Algorithm347_top_k_frequent_elements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiejieren.stack_and_queue.Algorithm347_top_k_frequent_elements" />
+      <module name="codeMaster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiejieren.stack_and_queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Algorithm459_repeated_substring_pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiejieren.string.kmp.Algorithm459_repeated_substring_pattern" />
+      <module name="codeMaster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiejieren.string.kmp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Algorithm459_repeated_substring_pattern" />
+        <item itemvalue="Application.Algorithm347_top_k_frequent_elements" />
+        <item itemvalue="Application.Algorithm239_sliding_window_maximum" />
+        <item itemvalue="Application.Algorithm150_evaluate_reverse_polish_notation" />
+        <item itemvalue="Application.Algorithm151_reverse_words" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91d67ec4-d6fc-47f2-b8e9-0148375843cc" name="Changes" comment="" />
+      <created>1704340418227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704340418227</updated>
+      <workItem from="1704340420671" duration="700000" />
+      <workItem from="1704341130827" duration="5746000" />
+      <workItem from="1704354430144" duration="260000" />
+      <workItem from="1704417568561" duration="13205000" />
+      <workItem from="1704631512439" duration="21000" />
+      <workItem from="1705580955542" duration="14040000" />
+      <workItem from="1705735869398" duration="3538000" />
+      <workItem from="1705739865318" duration="4716000" />
+      <workItem from="1706016689094" duration="19197000" />
+      <workItem from="1706235641053" duration="10395000" />
+      <workItem from="1706277986812" duration="13000" />
+      <workItem from="1706507999298" duration="8394000" />
+      <workItem from="1706752296057" duration="4077000" />
+      <workItem from="1707053668865" duration="5002000" />
+      <workItem from="1707112671421" duration="2000" />
+      <workItem from="1707122991916" duration="2234000" />
+      <workItem from="1707216464798" duration="2783000" />
+      <workItem from="1707388492337" duration="605000" />
+      <workItem from="1708483892441" duration="47000" />
+      <workItem from="1708501554500" duration="2000" />
+      <workItem from="1708503538527" duration="7000" />
+      <workItem from="1708584244077" duration="1702000" />
+      <workItem from="1708661955591" duration="3516000" />
+      <workItem from="1708670318596" duration="73000" />
+      <workItem from="1708670399516" duration="1971000" />
+      <workItem from="1708674430983" duration="2924000" />
+      <workItem from="1708697886503" duration="677000" />
+      <workItem from="1708839060636" duration="41000" />
+      <workItem from="1708847270607" duration="2200000" />
+      <workItem from="1708861410983" duration="14704000" />
+      <workItem from="1709013891591" duration="4408000" />
+      <workItem from="1709020550629" duration="2151000" />
+      <workItem from="1709124793024" duration="8166000" />
+      <workItem from="1709190110852" duration="8344000" />
+      <workItem from="1709276359322" duration="18488000" />
+      <workItem from="1709379277406" duration="4986000" />
+      <workItem from="1709448300729" duration="2376000" />
+      <workItem from="1709451963920" duration="929000" />
+      <workItem from="1709465446573" duration="639000" />
+      <workItem from="1709528035796" duration="8269000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jiejieren/string/kmp/Algorithm459_repeated_substring_pattern.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
