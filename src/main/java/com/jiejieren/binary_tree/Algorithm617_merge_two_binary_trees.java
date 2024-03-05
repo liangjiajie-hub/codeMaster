@@ -2,6 +2,8 @@ package com.jiejieren.binary_tree;
 
 import com.jiejieren.util.tree.binary.TreeNode;
 
+import java.util.Stack;
+
 /**
  * 617. 合并二叉树
  * 简单
@@ -23,9 +25,26 @@ import com.jiejieren.util.tree.binary.TreeNode;
  */
 public class Algorithm617_merge_two_binary_trees {
 
-    public TreeNode mergeTrees(TreeNode root1, TreeNode root2) {
+    private Stack<TreeNode> stack1 = new Stack<>();
+    private Stack<TreeNode> stack2 = new Stack<>();
 
-        return null;
+    public TreeNode mergeTrees(TreeNode root1, TreeNode root2) {
+        TreeNode root = null;
+        if (root1 == null && root2 == null) return null;
+        if (root1 != null && root2 != null) {
+            root = root1;
+            root1.val += root2.val;
+            stack1.push(root1);
+            stack2.push(root2);
+            root.left = mergeTrees(root1.left, root2.left);
+            root.right = mergeTrees(root1.right, root2.right);
+            stack1.pop();
+            stack2.pop();
+        } else {
+            if (root1 != null) root = root1;
+            if (root2 != null) root = root2;
+        }
+        return root;
     }
 
     public static void main(String[] args) {
