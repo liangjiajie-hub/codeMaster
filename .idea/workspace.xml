@@ -201,7 +201,9 @@
       <workItem from="1709685307366" duration="16426000" />
       <workItem from="1709821921461" duration="66000" />
       <workItem from="1709822003564" duration="841000" />
-      <workItem from="1709822855314" duration="927000" />
+      <workItem from="1709822855314" duration="1026000" />
+      <workItem from="1709859985321" duration="1332000" />
+      <workItem from="1709908341881" duration="2213000" />
     </task>
     <task id="LOCAL-00001" summary="feat:提交leetcode算法“617.合并二叉树”题解;">
       <created>1709617744463</created>
@@ -224,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709711146082</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat:提交leetcode算法“236.二叉树的最近公共祖先”的题解;">
+      <created>1709823877187</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709823877187</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,7 +268,8 @@
     </ignored-roots>
     <MESSAGE value="feat:提交leetcode算法“617.合并二叉树”的题解;" />
     <MESSAGE value="feat:提交leetcode算法“98.验证二叉搜索树”、“700.二叉搜索树中的搜索”、“530.二叉搜索树的最小绝对差”、“501.二叉搜索树中的众数”的题解;" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat:提交leetcode算法“98.验证二叉搜索树”、“700.二叉搜索树中的搜索”、“530.二叉搜索树的最小绝对差”、“501.二叉搜索树中的众数”的题解;" />
+    <MESSAGE value="feat:提交leetcode算法“236.二叉树的最近公共祖先”的题解;" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat:提交leetcode算法“236.二叉树的最近公共祖先”的题解;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
