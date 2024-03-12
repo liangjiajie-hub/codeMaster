@@ -5,72 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91d67ec4-d6fc-47f2-b8e9-0148375843cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/array/dichotomy/Algorithm704_binary_search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/array/simulation/Algorithm59_spiral_matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/array/slide_window/Algorithm209_smallest_length_subarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/array/two_pointer/Algorithm27_remove_element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/array/two_pointer/Algorithm977_square_of_ordered_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/binary_tree/Algorithm101_symmetric_tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/binary_tree/Algorithm102_binary_tree_level_order_traversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/binary_tree/Algorithm104_maximum_depth_of_binary_tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/binary_tree/Algorithm106_construct_binary_tree_from_inorder_and_postorder_traversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/binary_tree/Algorithm110_balanced_binary_tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/binary_tree/Algorithm111_minimum_depth_of_binary_tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/binary_tree/Algorithm112_path_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/binary_tree/Algorithm144_binary_tree_preorder_traversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/binary_tree/Algorithm145_binary_tree_postorder_traversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/binary_tree/Algorithm222_count_complete_tree_nodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/binary_tree/Algorithm226_invert_binary_tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/binary_tree/Algorithm235_lowest_common_ancestor_of_a_binary_search_tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/binary_tree/Algorithm236_lowest_common_ancestor_of_a_binary_tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/binary_tree/Algorithm257_binary_tree_paths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/binary_tree/Algorithm404_sum_of_left_leaves.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/binary_tree/Algorithm450_delete_node_in_a_BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/binary_tree/Algorithm501_find_mode_in_binary_search_tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/binary_tree/Algorithm513_find_bottom_left_tree_value.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/binary_tree/Algorithm530_minimum_absolute_difference_in_BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/binary_tree/Algorithm617_merge_two_binary_trees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/binary_tree/Algorithm654_maximum_binary_tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/binary_tree/Algorithm669_trim_a_binary_search_tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/binary_tree/Algorithm700_search_in_a_binary_search_tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/binary_tree/Algorithm701_insert_into_a_binary_search_tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/binary_tree/Algorithm94_binary_tree_inorder_traversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/binary_tree/Algorithm98_validate_binary_search_tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/hash_table/Algorithm15_three_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/hash_table/Algorithm18_four_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/hash_table/Algorithm1_two_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/hash_table/Algorithm202_is_happy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/hash_table/Algorithm242_is_anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/hash_table/Algorithm349_array_intersection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/hash_table/Algorithm383_ransom_note.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/hash_table/Algorithm454_four_sum_count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/linked_list/Algorithm142_detect_cycle_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/linked_list/Algorithm160_getIntersection_node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/linked_list/Algorithm19_remove_nth_from_end.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/linked_list/Algorithm203_remove_linked_list_element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/linked_list/Algorithm206_reverse_linked_list.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/linked_list/Algorithm24_swap_pairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/linked_list/Algorithm707_design_linked_list.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/stack_and_queue/Algorithm1047_remove_all_adjacent_duplicates_in_string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/stack_and_queue/Algorithm150_evaluate_reverse_polish_notation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/stack_and_queue/Algorithm20_valid_parentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/stack_and_queue/Algorithm225_implement_stack_using_queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/stack_and_queue/Algorithm232_implement_queue_using_stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/stack_and_queue/Algorithm239_sliding_window_maximum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/stack_and_queue/Algorithm347_top_k_frequent_elements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/string/Algorithm151_reverse_words.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/string/Algorithm344_reverse_string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/string/Algorithm541_reverse_string_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/string/kmp/Algorithm28_find_the_index_of_the_first_occurrence_in_a_string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/string/kmp/Algorithm459_repeated_substring_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/util/linked_list/single/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/util/tree/binary/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/binary_tree/Algorithm108_convert_sorted_array_to_binary_search_tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
@@ -113,26 +54,26 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/learning_project/algorithm/codeMaster&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.4045977&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/learning_project/algorithm/codeMaster",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.4045977",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.jiejieren.binary_tree" />
@@ -277,7 +218,7 @@
       <workItem from="1710141881901" duration="522000" />
       <workItem from="1710142420165" duration="42000" />
       <workItem from="1710142467583" duration="103000" />
-      <workItem from="1710142581601" duration="628000" />
+      <workItem from="1710142581601" duration="11954000" />
     </task>
     <task id="LOCAL-00001" summary="feat:提交leetcode算法“617.合并二叉树”题解;">
       <created>1709617744463</created>
@@ -321,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709965479588</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat:提交leetcode算法“450.删除二叉搜索树中的节点”、“669.修剪二叉搜索树”、“701.二叉搜索树中的插入操作”的题解;">
+      <created>1710143400518</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710143400518</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -338,7 +286,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
