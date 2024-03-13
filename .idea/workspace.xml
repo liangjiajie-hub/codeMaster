@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91d67ec4-d6fc-47f2-b8e9-0148375843cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/binary_tree/Algorithm108_convert_sorted_array_to_binary_search_tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jiejieren/back_tracking/Algorithm77_combine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/back_tracking/Algorithm77_combine.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +70,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.4045977",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "com.itangcent.idea.plugin.configurable.AccountConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -80,13 +80,13 @@
       <recent name="com.jiejieren.linked_list" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Algorithm617_merge_two_binary_trees">
-    <configuration name="Algorithm150_evaluate_reverse_polish_notation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiejieren.stack_and_queue.Algorithm150_evaluate_reverse_polish_notation" />
+  <component name="RunManager" selected="Application.Algorithm131_palindrome_partitioning">
+    <configuration name="Algorithm131_palindrome_partitioning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiejieren.back_tracking.Algorithm131_palindrome_partitioning" />
       <module name="codeMaster" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiejieren.stack_and_queue.*" />
+          <option name="PATTERN" value="com.jiejieren.back_tracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Algorithm131_palindrome_partitioning" />
         <item itemvalue="Application.Algorithm617_merge_two_binary_trees" />
         <item itemvalue="Application.Algorithm459_repeated_substring_pattern" />
         <item itemvalue="Application.Algorithm347_top_k_frequent_elements" />
         <item itemvalue="Application.Algorithm239_sliding_window_maximum" />
-        <item itemvalue="Application.Algorithm150_evaluate_reverse_polish_notation" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +218,9 @@
       <workItem from="1710141881901" duration="522000" />
       <workItem from="1710142420165" duration="42000" />
       <workItem from="1710142467583" duration="103000" />
-      <workItem from="1710142581601" duration="11954000" />
+      <workItem from="1710142581601" duration="12104000" />
+      <workItem from="1710208957758" duration="45000" />
+      <workItem from="1710209013702" duration="18520000" />
     </task>
     <task id="LOCAL-00001" summary="feat:提交leetcode算法“617.合并二叉树”题解;">
       <created>1709617744463</created>
@@ -269,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710143400518</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="feat:提交leetcode算法“77.组合”、“108.将有序数组转换为二叉搜索树”、“538.把二叉搜索树转换为累加树”的题解;">
+      <created>1710208862119</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710208862119</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,7 +295,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -307,7 +316,8 @@
     <MESSAGE value="feat:提交leetcode算法“236.二叉树的最近公共祖先”的题解;" />
     <MESSAGE value="feat:提交leetcode算法“235.二叉搜索树的最近公共祖先”的题解;" />
     <MESSAGE value="feat:提交leetcode算法“450.删除二叉搜索树中的节点”、“669.修剪二叉搜索树”、“701.二叉搜索树中的插入操作”的题解;" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat:提交leetcode算法“450.删除二叉搜索树中的节点”、“669.修剪二叉搜索树”、“701.二叉搜索树中的插入操作”的题解;" />
+    <MESSAGE value="feat:提交leetcode算法“77.组合”、“108.将有序数组转换为二叉搜索树”、“538.把二叉搜索树转换为累加树”的题解;" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat:提交leetcode算法“77.组合”、“108.将有序数组转换为二叉搜索树”、“538.把二叉搜索树转换为累加树”的题解;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

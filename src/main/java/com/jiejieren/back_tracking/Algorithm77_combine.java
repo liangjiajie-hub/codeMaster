@@ -51,6 +51,19 @@ public class Algorithm77_combine {
         }
     }
 
+    // 代码随想录题解剪枝优化
+    private void backtracking2(int n, int k, int index, List<Integer> list) {
+        if (list.size() == k) {
+            result.add(new ArrayList<>(list));
+            return;
+        }
+        for (int i = index; i <= n - (k - list.size()) + 1; i++) {
+            list.add(i);
+            backtracking2(n, k, i + 1, list);
+            list.remove(list.size() - 1);
+        }
+    }
+
     public static void main(String[] args) {
 
     }
