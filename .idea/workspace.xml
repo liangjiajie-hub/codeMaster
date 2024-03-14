@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="91d67ec4-d6fc-47f2-b8e9-0148375843cc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jiejieren/back_tracking/Algorithm77_combine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/back_tracking/Algorithm77_combine.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,52 +53,39 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "E:/learning_project/algorithm/codeMaster",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.4045977",
-    "settings.editor.selected.configurable": "com.itangcent.idea.plugin.configurable.AccountConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/learning_project/algorithm/codeMaster&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.4045977&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.jiejieren.binary_tree" />
       <recent name="com.jiejieren.linked_list" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Algorithm131_palindrome_partitioning">
+  <component name="RunManager" selected="Application.Algorithm491_non_decreasing_subsequences">
     <configuration name="Algorithm131_palindrome_partitioning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jiejieren.back_tracking.Algorithm131_palindrome_partitioning" />
       <module name="codeMaster" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.jiejieren.back_tracking.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Algorithm239_sliding_window_maximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiejieren.stack_and_queue.Algorithm239_sliding_window_maximum" />
-      <module name="codeMaster" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jiejieren.stack_and_queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,6 +119,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Algorithm491_non_decreasing_subsequences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiejieren.back_tracking.Algorithm491_non_decreasing_subsequences" />
+      <module name="codeMaster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiejieren.back_tracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Algorithm617_merge_two_binary_trees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jiejieren.binary_tree.Algorithm617_merge_two_binary_trees" />
       <module name="codeMaster" />
@@ -148,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Algorithm491_non_decreasing_subsequences" />
         <item itemvalue="Application.Algorithm131_palindrome_partitioning" />
         <item itemvalue="Application.Algorithm617_merge_two_binary_trees" />
         <item itemvalue="Application.Algorithm459_repeated_substring_pattern" />
         <item itemvalue="Application.Algorithm347_top_k_frequent_elements" />
-        <item itemvalue="Application.Algorithm239_sliding_window_maximum" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +219,9 @@
       <workItem from="1710142467583" duration="103000" />
       <workItem from="1710142581601" duration="12104000" />
       <workItem from="1710208957758" duration="45000" />
-      <workItem from="1710209013702" duration="18520000" />
+      <workItem from="1710209013702" duration="18810000" />
+      <workItem from="1710340439522" duration="8068000" />
+      <workItem from="1710399462307" duration="3486000" />
     </task>
     <task id="LOCAL-00001" summary="feat:提交leetcode算法“617.合并二叉树”题解;">
       <created>1709617744463</created>
@@ -278,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710208862119</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="feat: 提交leetcode算法“216.组合总和III”、“17.电话号码的字母组合”、“39.组合总和”、“40.组合总和II”、“131.分割回文串”的题解;">
+      <created>1710338008089</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710338008089</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,7 +303,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
@@ -317,7 +325,9 @@
     <MESSAGE value="feat:提交leetcode算法“235.二叉搜索树的最近公共祖先”的题解;" />
     <MESSAGE value="feat:提交leetcode算法“450.删除二叉搜索树中的节点”、“669.修剪二叉搜索树”、“701.二叉搜索树中的插入操作”的题解;" />
     <MESSAGE value="feat:提交leetcode算法“77.组合”、“108.将有序数组转换为二叉搜索树”、“538.把二叉搜索树转换为累加树”的题解;" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat:提交leetcode算法“77.组合”、“108.将有序数组转换为二叉搜索树”、“538.把二叉搜索树转换为累加树”的题解;" />
+    <MESSAGE value="feat:提交leetcode算法“216.组合总和III”、“17.电话号码的字母组合”、“39.组合总和”、“40.组合总和II”、“131.分割回文串”的题解;" />
+    <MESSAGE value="feat: 提交leetcode算法“216.组合总和III”、“17.电话号码的字母组合”、“39.组合总和”、“40.组合总和II”、“131.分割回文串”的题解;" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 提交leetcode算法“216.组合总和III”、“17.电话号码的字母组合”、“39.组合总和”、“40.组合总和II”、“131.分割回文串”的题解;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
