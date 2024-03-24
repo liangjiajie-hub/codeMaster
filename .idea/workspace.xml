@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="91d67ec4-d6fc-47f2-b8e9-0148375843cc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jiejieren/dp/Algorithm62.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/dp/Algorithm62.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +79,7 @@
       <recent name="com.jiejieren.linked_list" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Algorithm491_non_decreasing_subsequences">
+  <component name="RunManager" selected="Application.Algorithm452_minimum_number_of_arrows_to_burst_balloons">
     <configuration name="Algorithm131_palindrome_partitioning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jiejieren.back_tracking.Algorithm131_palindrome_partitioning" />
       <module name="codeMaster" />
@@ -94,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Algorithm347_top_k_frequent_elements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiejieren.stack_and_queue.Algorithm347_top_k_frequent_elements" />
+    <configuration name="Algorithm452_minimum_number_of_arrows_to_burst_balloons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiejieren.greed.Algorithm452_minimum_number_of_arrows_to_burst_balloons" />
       <module name="codeMaster" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiejieren.stack_and_queue.*" />
+          <option name="PATTERN" value="com.jiejieren.greed.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Algorithm459_repeated_substring_pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiejieren.string.kmp.Algorithm459_repeated_substring_pattern" />
+    <configuration name="Algorithm45_jump_game_II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiejieren.greed.Algorithm45_jump_game_II" />
       <module name="codeMaster" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiejieren.string.kmp.*" />
+          <option name="PATTERN" value="com.jiejieren.greed.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Algorithm452_minimum_number_of_arrows_to_burst_balloons" />
+        <item itemvalue="Application.Algorithm45_jump_game_II" />
         <item itemvalue="Application.Algorithm491_non_decreasing_subsequences" />
         <item itemvalue="Application.Algorithm131_palindrome_partitioning" />
         <item itemvalue="Application.Algorithm617_merge_two_binary_trees" />
-        <item itemvalue="Application.Algorithm459_repeated_substring_pattern" />
-        <item itemvalue="Application.Algorithm347_top_k_frequent_elements" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +229,19 @@
       <workItem from="1710593855859" duration="2003000" />
       <workItem from="1710680341857" duration="2071000" />
       <workItem from="1710685514887" duration="225000" />
-      <workItem from="1710724576502" duration="2988000" />
+      <workItem from="1710724576502" duration="3913000" />
+      <workItem from="1710730446232" duration="2000" />
+      <workItem from="1710768486010" duration="25000" />
+      <workItem from="1710814983707" duration="4096000" />
+      <workItem from="1710828300879" duration="4000" />
+      <workItem from="1710895537182" duration="5659000" />
+      <workItem from="1710911257763" duration="808000" />
+      <workItem from="1710998216580" duration="2160000" />
+      <workItem from="1711001809941" duration="8000" />
+      <workItem from="1711004866013" duration="8000" />
+      <workItem from="1711070204193" duration="1878000" />
+      <workItem from="1711074666811" duration="11000" />
+      <workItem from="1711114096231" duration="1631000" />
     </task>
     <task id="LOCAL-00001" summary="feat:提交leetcode算法“617.合并二叉树”题解;">
       <created>1709617744463</created>
@@ -323,7 +334,21 @@
       <option name="project" value="LOCAL" />
       <updated>1710596150346</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="feat: 提交leetcode算法“332.重新安排行程”、“70.爬楼梯”、“509.斐波那契数”、“746.使用最小花费爬楼梯”、“62.不同路径”的题解;">
+      <created>1710728880508</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1710728880508</updated>
+    </task>
+    <task id="LOCAL-00015" summary="feat: 提交leetcode算法“45.跳跃游戏 II”、“55.跳跃游戏”、“63.不同路径 II”、“96.不同的二叉搜索树”、“134.加油站”、“343.整数拆分”、“1005.K 次取反后最大化的数组和”的题解;">
+      <created>1710998881669</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1710998881669</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -368,7 +393,9 @@
     <MESSAGE value="feat: 提交leetcode算法“455.分发饼干”、“376.摆动序列”的题解;" />
     <MESSAGE value="feat: 提交leetcode算法“122.买卖股票的最佳时机 II”、“53. 最大子数组和”的题解;" />
     <MESSAGE value="feat: 提交leetcode算法“47.全排列 II”、“46.全排列”的题解;" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 提交leetcode算法“47.全排列 II”、“46.全排列”的题解;" />
+    <MESSAGE value="feat: 提交leetcode算法“332.重新安排行程”、“70.爬楼梯”、“509.斐波那契数”、“746.使用最小花费爬楼梯”、“62.不同路径”的题解;" />
+    <MESSAGE value="feat: 提交leetcode算法“45.跳跃游戏 II”、“55.跳跃游戏”、“63.不同路径 II”、“96.不同的二叉搜索树”、“134.加油站”、“343.整数拆分”、“1005.K 次取反后最大化的数组和”的题解;" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 提交leetcode算法“45.跳跃游戏 II”、“55.跳跃游戏”、“63.不同路径 II”、“96.不同的二叉搜索树”、“134.加油站”、“343.整数拆分”、“1005.K 次取反后最大化的数组和”的题解;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

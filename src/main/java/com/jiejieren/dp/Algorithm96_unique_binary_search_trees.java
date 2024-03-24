@@ -16,7 +16,7 @@ package com.jiejieren.dp;
  * 1 <= n <= 19
  */
 // TODO I didn't pass by myself
-public class Algorithm96 {
+public class Algorithm96_unique_binary_search_trees {
 
     public int numTrees(int n) {
         int[] dp = new int[n + 1];
