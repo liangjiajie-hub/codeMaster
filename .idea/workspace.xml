@@ -53,33 +53,33 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/learning_project/algorithm/codeMaster&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.4045977&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/learning_project/algorithm/codeMaster",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.4045977",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.jiejieren.binary_tree" />
       <recent name="com.jiejieren.linked_list" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Algorithm763_partition_labels">
+  <component name="RunManager" selected="Application.Algorithm474_ones_and_zeroes">
     <configuration name="Algorithm435_non_overlapping_intervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jiejieren.greed.Algorithm435_non_overlapping_intervals" />
       <module name="codeMaster" />
@@ -106,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Algorithm45_jump_game_II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiejieren.greed.Algorithm45_jump_game_II" />
+    <configuration name="Algorithm474_ones_and_zeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiejieren.dp.Algorithm474_ones_and_zeroes" />
       <module name="codeMaster" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiejieren.greed.*" />
+          <option name="PATTERN" value="com.jiejieren.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiejieren.dp.Test" />
+    <configuration name="MeiTuan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiejieren.dp.MeiTuan" />
       <module name="codeMaster" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiejieren.greed.*" />
+          <option name="PATTERN" value="com.jiejieren.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Algorithm763_partition_labels" />
+        <item itemvalue="Application.Algorithm474_ones_and_zeroes" />
+        <item itemvalue="Application.MeiTuan" />
         <item itemvalue="Application.Algorithm435_non_overlapping_intervals" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Algorithm763_partition_labels" />
         <item itemvalue="Application.Algorithm452_minimum_number_of_arrows_to_burst_balloons" />
-        <item itemvalue="Application.Algorithm45_jump_game_II" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +246,13 @@
       <workItem from="1711285047907" duration="8668000" />
       <workItem from="1711339377566" duration="819000" />
       <workItem from="1711426544495" duration="307000" />
-      <workItem from="1711587604602" duration="763000" />
+      <workItem from="1711587604602" duration="7930000" />
+      <workItem from="1711721513870" duration="1557000" />
+      <workItem from="1711794663570" duration="599000" />
+      <workItem from="1711796194644" duration="8000" />
+      <workItem from="1711796256911" duration="3226000" />
+      <workItem from="1711801750619" duration="3000" />
+      <workItem from="1711802405466" duration="4559000" />
     </task>
     <task id="LOCAL-00001" summary="feat:提交leetcode算法“617.合并二叉树”题解;">
       <created>1709617744463</created>
@@ -367,7 +373,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711263239779</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="feat: 提交leetcode算法“435.无重叠区间”、“763.划分字母区间”、“416.分割等和子集”的题解;">
+      <created>1711589449137</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1711589449137</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -416,7 +429,9 @@
     <MESSAGE value="feat: 提交leetcode算法“45.跳跃游戏 II”、“55.跳跃游戏”、“63.不同路径 II”、“96.不同的二叉搜索树”、“134.加油站”、“343.整数拆分”、“1005.K 次取反后最大化的数组和”的题解;" />
     <MESSAGE value="feat: 提交leetcode算法“135.分发糖果”、“406.根据身高重建队列”、“452.用最少数量的箭引爆气球”、“860.柠檬水找零”的题解;" />
     <MESSAGE value="fix: 修改leetcode算法“96.不同的二叉搜索树”题解的类名;" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: 修改leetcode算法“96.不同的二叉搜索树”题解的类名;" />
+    <MESSAGE value="fix: 提交leetcode算法“435.无重叠区间”、“763.划分字母区间”、“416.分割等和子集”的题解;" />
+    <MESSAGE value="feat: 提交leetcode算法“435.无重叠区间”、“763.划分字母区间”、“416.分割等和子集”的题解;" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 提交leetcode算法“435.无重叠区间”、“763.划分字母区间”、“416.分割等和子集”的题解;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
