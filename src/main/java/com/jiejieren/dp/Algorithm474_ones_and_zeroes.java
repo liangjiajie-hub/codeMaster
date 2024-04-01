@@ -39,15 +39,10 @@ public class Algorithm474_ones_and_zeroes {
             list.add(new int[]{str.length() - count, count});
         }
         int[][] dp = new int[m + 1][n + 1];
-        for (int i = 0; i <= m; i++) {
-            for (int j = 0; j <= n; j++) {
-                if (i >= list.get(0)[0] && j >= list.get(0)[1]) dp[i][j] = 1;
-            }
-        }
-        for (int i = 1; i < strs.length; i++) {
+        for (int i = 0; i < strs.length; i++) {
             for (int j = m; j >= list.get(i)[0]; j--) {
                 for (int k = n; k >= list.get(i)[1]; k--) {
-                    dp[j][k] = Math.max(dp[j][k], dp[j][k] + dp[j - list.get(i)[0]][k - list.get(i)[1]]);
+                    dp[j][k] = Math.max(dp[j][k], 1 + dp[j - list.get(i)[0]][k - list.get(i)[1]]);
                 }
             }
         }
