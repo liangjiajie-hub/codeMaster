@@ -21,7 +21,7 @@ import java.util.stream.IntStream;
  * 1 <= nums[i] <= 100
  */
 // TODO I didn't pass by myself
-public class Algorithm_416_partition_equal_subset_sum {
+public class Algorithm416_partition_equal_subset_sum {
 
     public boolean canPartition(int[] nums) {
         int sum = IntStream.of(nums).boxed().reduce(0, Integer::sum);
