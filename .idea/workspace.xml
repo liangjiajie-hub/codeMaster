@@ -60,7 +60,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/learning_project/algorithm/codeMaster&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/learning_project/algorithm/codeMaster/src/main/java/com/jiejieren/written_examination&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -74,12 +74,16 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\learning_project\algorithm\codeMaster\src\main\java\com\jiejieren\written_examination" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jiejieren.dp" />
       <recent name="com.jiejieren.binary_tree" />
       <recent name="com.jiejieren.linked_list" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Algorithm322_coin_change">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Algorithm322_coin_change" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jiejieren.dp.Algorithm322_coin_change" />
       <module name="codeMaster" />
@@ -119,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MeiTuan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiejieren.dp.MeiTuan" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiejieren.Main" />
       <module name="codeMaster" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiejieren.dp.*" />
+          <option name="PATTERN" value="com.jiejieren.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Algorithm322_coin_change" />
         <item itemvalue="Application.Algorithm494_target_sum" />
         <item itemvalue="Application.MiHaYou" />
         <item itemvalue="Application.Algorithm474_ones_and_zeroes" />
-        <item itemvalue="Application.MeiTuan" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +268,9 @@
       <workItem from="1712293694341" duration="766000" />
       <workItem from="1712295017319" duration="5000" />
       <workItem from="1712315945908" duration="782000" />
-      <workItem from="1712455434592" duration="3694000" />
+      <workItem from="1712455434592" duration="9304000" />
+      <workItem from="1712843102387" duration="794000" />
+      <workItem from="1712901078499" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="feat:提交leetcode算法“617.合并二叉树”题解;">
       <created>1709617744463</created>
@@ -434,7 +440,21 @@
       <option name="project" value="LOCAL" />
       <updated>1712148334462</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="feat: 提交leetcode算法“337.打家劫舍 III”、“121.买卖股票的最佳时机”、“122.买卖股票的最佳时机 II”、“123.买卖股票的最佳时机 III”、“139.单词拆分”、“198.打家劫舍”、“213.打家劫舍 II”的题解;">
+      <created>1712539517351</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1712539517351</updated>
+    </task>
+    <task id="LOCAL-00026" summary="feat: 提交leetcode算法“188.买卖股票的最佳时机IV”、“309.最佳买卖股票时机含冷冻期”的题解;">
+      <created>1712542197019</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1712542197019</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -451,7 +471,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -467,7 +487,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="feat:提交leetcode算法“617.合并二叉树”的题解;" />
     <MESSAGE value="feat:提交leetcode算法“98.验证二叉搜索树”、“700.二叉搜索树中的搜索”、“530.二叉搜索树的最小绝对差”、“501.二叉搜索树中的众数”的题解;" />
     <MESSAGE value="feat:提交leetcode算法“236.二叉树的最近公共祖先”的题解;" />
     <MESSAGE value="feat:提交leetcode算法“235.二叉搜索树的最近公共祖先”的题解;" />
@@ -491,7 +510,9 @@
     <MESSAGE value="feat: 提交leetcode算法“322.零钱兑换”的题解;" />
     <MESSAGE value="feat: 修改leetcode算法“322.零钱兑换”的题解;" />
     <MESSAGE value="feat: 提交leetcode算法“279.完全平方数”的题解;" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 提交leetcode算法“279.完全平方数”的题解;" />
+    <MESSAGE value="feat: 提交leetcode算法“337.打家劫舍 III”、“121.买卖股票的最佳时机”、“122.买卖股票的最佳时机 II”、“123.买卖股票的最佳时机 III”、“139.单词拆分”、“198.打家劫舍”、“213.打家劫舍 II”的题解;" />
+    <MESSAGE value="feat: 提交leetcode算法“188.买卖股票的最佳时机IV”、“309.最佳买卖股票时机含冷冻期”的题解;" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 提交leetcode算法“188.买卖股票的最佳时机IV”、“309.最佳买卖股票时机含冷冻期”的题解;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
