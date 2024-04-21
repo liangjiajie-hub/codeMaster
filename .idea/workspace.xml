@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91d67ec4-d6fc-47f2-b8e9-0148375843cc" name="Changes" comment="" />
+    <list default="true" id="91d67ec4-d6fc-47f2-b8e9-0148375843cc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +58,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;E:/learning_project/algorithm/codeMaster/src/main/java/com/jiejieren/written_examination&quot;,
@@ -270,6 +273,12 @@
       <workItem from="1712843102387" duration="794000" />
       <workItem from="1712901078499" duration="12000" />
       <workItem from="1712977854262" duration="694000" />
+      <workItem from="1713420084004" duration="298000" />
+      <workItem from="1713420393480" duration="152000" />
+      <workItem from="1713439805763" duration="1953000" />
+      <workItem from="1713442635271" duration="215000" />
+      <workItem from="1713442864389" duration="642000" />
+      <workItem from="1713490591063" duration="967000" />
     </task>
     <task id="LOCAL-00001" summary="feat:提交leetcode算法“617.合并二叉树”题解;">
       <created>1709617744463</created>
@@ -460,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712978197017</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="feat: 提交leetcode算法“718.最长重复子数组”的题解;">
+      <created>1713420251032</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1713420251032</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -493,7 +509,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="feat:提交leetcode算法“236.二叉树的最近公共祖先”的题解;" />
     <MESSAGE value="feat:提交leetcode算法“235.二叉搜索树的最近公共祖先”的题解;" />
     <MESSAGE value="feat:提交leetcode算法“450.删除二叉搜索树中的节点”、“669.修剪二叉搜索树”、“701.二叉搜索树中的插入操作”的题解;" />
     <MESSAGE value="feat:提交leetcode算法“77.组合”、“108.将有序数组转换为二叉搜索树”、“538.把二叉搜索树转换为累加树”的题解;" />
@@ -518,7 +533,8 @@
     <MESSAGE value="feat: 提交leetcode算法“337.打家劫舍 III”、“121.买卖股票的最佳时机”、“122.买卖股票的最佳时机 II”、“123.买卖股票的最佳时机 III”、“139.单词拆分”、“198.打家劫舍”、“213.打家劫舍 II”的题解;" />
     <MESSAGE value="feat: 提交leetcode算法“188.买卖股票的最佳时机IV”、“309.最佳买卖股票时机含冷冻期”的题解;" />
     <MESSAGE value="feat: 提交leetcode算法“714.买卖股票的最佳时机含手续费”、“300.最长递增子序列”、“674.最长连续递增序列”的题解;" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 提交leetcode算法“714.买卖股票的最佳时机含手续费”、“300.最长递增子序列”、“674.最长连续递增序列”的题解;" />
+    <MESSAGE value="feat: 提交leetcode算法“718.最长重复子数组”的题解;" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 提交leetcode算法“718.最长重复子数组”的题解;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
