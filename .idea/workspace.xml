@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91d67ec4-d6fc-47f2-b8e9-0148375843cc" name="Changes" comment="">
+    <list default="true" id="91d67ec4-d6fc-47f2-b8e9-0148375843cc" name="Changes" comment="feat: 提交leetcode算法“392.判断子序列”、“72.编辑距离”的题解;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +67,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.4045977&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
@@ -84,7 +84,7 @@
       <recent name="com.jiejieren.linked_list" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Algorithm72_edit_distance">
+  <component name="RunManager" selected="Application.InputOutput">
     <configuration name="Algorithm322_coin_change" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jiejieren.dp.Algorithm322_coin_change" />
       <module name="codeMaster" />
@@ -124,6 +124,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InputOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiejieren.acm_model.InputOutput" />
+      <module name="codeMaster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiejieren.acm_model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jiejieren.Main" />
       <module name="codeMaster" />
@@ -137,26 +150,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MiHaYou" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiejieren.dp.MiHaYou" />
-      <module name="codeMaster" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jiejieren.dp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InputOutput" />
         <item itemvalue="Application.Algorithm72_edit_distance" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Algorithm322_coin_change" />
         <item itemvalue="Application.Algorithm494_target_sum" />
-        <item itemvalue="Application.MiHaYou" />
       </list>
     </recent_temporary>
   </component>
@@ -281,7 +281,12 @@
       <workItem from="1713490591063" duration="967000" />
       <workItem from="1713662554370" duration="1486000" />
       <workItem from="1713667471042" duration="864000" />
-      <workItem from="1713836345477" duration="3551000" />
+      <workItem from="1713836345477" duration="5092000" />
+      <workItem from="1713855101287" duration="685000" />
+      <workItem from="1713855973139" duration="370000" />
+      <workItem from="1713924838432" duration="2291000" />
+      <workItem from="1713945764810" duration="751000" />
+      <workItem from="1713964351439" duration="78000" />
     </task>
     <task id="LOCAL-00001" summary="feat:提交leetcode算法“617.合并二叉树”题解;">
       <created>1709617744463</created>
@@ -500,7 +505,21 @@
       <option name="project" value="LOCAL" />
       <updated>1713667575629</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="feat: 提交leetcode算法“392.判断子序列”、“72.编辑距离”的题解;">
+      <created>1713841537603</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1713841537603</updated>
+    </task>
+    <task id="LOCAL-00033" summary="feat: 提交leetcode算法“647.回文子串”的题解;">
+      <created>1713945916202</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1713945916202</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -533,8 +552,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="feat:提交leetcode算法“216.组合总和III”、“17.电话号码的字母组合”、“39.组合总和”、“40.组合总和II”、“131.分割回文串”的题解;" />
-    <MESSAGE value="feat: 提交leetcode算法“216.组合总和III”、“17.电话号码的字母组合”、“39.组合总和”、“40.组合总和II”、“131.分割回文串”的题解;" />
     <MESSAGE value="feat: 提交leetcode算法“93.复原IP地址”、“78.子集”、“90.子集II”、“491.非递减子序列”的题解;" />
     <MESSAGE value="feat: 提交leetcode算法“455.分发饼干”、“376.摆动序列”的题解;" />
     <MESSAGE value="feat: 提交leetcode算法“122.买卖股票的最佳时机 II”、“53. 最大子数组和”的题解;" />
@@ -558,7 +575,9 @@
     <MESSAGE value="feat: 提交leetcode算法“1143.最长公共子序列”的题解;" />
     <MESSAGE value="feat: 提交leetcode算法“1035.不相交的线”的题解;" />
     <MESSAGE value="feat: 提交leetcode算法“583.两个字符串的删除操作”的题解;" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 提交leetcode算法“583.两个字符串的删除操作”的题解;" />
+    <MESSAGE value="feat: 提交leetcode算法“392.判断子序列”、“72.编辑距离”的题解;" />
+    <MESSAGE value="feat: 提交leetcode算法“647.回文子串”的题解;" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 提交leetcode算法“647.回文子串”的题解;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
