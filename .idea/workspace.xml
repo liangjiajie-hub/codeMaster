@@ -297,7 +297,7 @@
       <workItem from="1715586277682" duration="2225000" />
       <workItem from="1715594292520" duration="23000" />
       <workItem from="1715748473686" duration="977000" />
-      <workItem from="1715750017607" duration="1279000" />
+      <workItem from="1715750017607" duration="2409000" />
     </task>
     <task id="LOCAL-00001" summary="feat:提交leetcode算法“617.合并二叉树”题解;">
       <created>1709617744463</created>
@@ -565,7 +565,21 @@
       <option name="project" value="LOCAL" />
       <updated>1715748591166</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="feat: 提交leetcode算法“503.下一个更大元素 II”、“42.接雨水”的题解;">
+      <created>1715752165157</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1715752165157</updated>
+    </task>
+    <task id="LOCAL-00040" summary="feat: 提交leetcode算法“503.下一个更大元素 II”、“42.接雨水”的题解;">
+      <created>1715752200746</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1715752200746</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -598,7 +612,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="feat: 提交leetcode算法“45.跳跃游戏 II”、“55.跳跃游戏”、“63.不同路径 II”、“96.不同的二叉搜索树”、“134.加油站”、“343.整数拆分”、“1005.K 次取反后最大化的数组和”的题解;" />
     <MESSAGE value="feat: 提交leetcode算法“135.分发糖果”、“406.根据身高重建队列”、“452.用最少数量的箭引爆气球”、“860.柠檬水找零”的题解;" />
     <MESSAGE value="fix: 修改leetcode算法“96.不同的二叉搜索树”题解的类名;" />
     <MESSAGE value="fix: 提交leetcode算法“435.无重叠区间”、“763.划分字母区间”、“416.分割等和子集”的题解;" />
@@ -623,7 +636,8 @@
     <MESSAGE value="feat: 提交leetcode算法“739.每日温度”的题解;" />
     <MESSAGE value="feat: 提交leetcode算法“496.下一个更大元素 I”的题解;" />
     <MESSAGE value="feat: 提交leetcode算法“503.下一个更大元素 II”的题解;" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 提交leetcode算法“503.下一个更大元素 II”的题解;" />
+    <MESSAGE value="feat: 提交leetcode算法“503.下一个更大元素 II”、“42.接雨水”的题解;" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 提交leetcode算法“503.下一个更大元素 II”、“42.接雨水”的题解;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
