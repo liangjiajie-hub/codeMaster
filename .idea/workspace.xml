@@ -85,22 +85,9 @@
       <recent name="com.jiejieren.linked_list" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.LRUCache">
     <configuration name="Algorithm115_distinct_subsequences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jiejieren.dp.Algorithm115_distinct_subsequences" />
-      <module name="codeMaster" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jiejieren.dp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Algorithm322_coin_change" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiejieren.dp.Algorithm322_coin_change" />
       <module name="codeMaster" />
       <extension name="coverage">
         <pattern>
@@ -138,6 +125,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiejieren.LRUCache" />
+      <module name="codeMaster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiejieren.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jiejieren.Main" />
       <module name="codeMaster" />
@@ -153,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LRUCache" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Algorithm115_distinct_subsequences" />
         <item itemvalue="Application.InputOutput" />
         <item itemvalue="Application.Algorithm72_edit_distance" />
-        <item itemvalue="Application.Algorithm322_coin_change" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +306,11 @@
       <workItem from="1716107478212" duration="823000" />
       <workItem from="1716451742435" duration="969000" />
       <workItem from="1716712925904" duration="715000" />
-      <workItem from="1716858399739" duration="305000" />
+      <workItem from="1716858399739" duration="1419000" />
+      <workItem from="1716896393738" duration="8925000" />
+      <workItem from="1716957795496" duration="1109000" />
+      <workItem from="1717054630804" duration="3900000" />
+      <workItem from="1717122772345" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="feat:提交leetcode算法“617.合并二叉树”题解;">
       <created>1709617744463</created>
@@ -616,7 +620,14 @@
       <option name="project" value="LOCAL" />
       <updated>1716452051578</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="feat: 提交leetcode算法“1020.飞地的数量”的题解;">
+      <created>1716858722094</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1716858722094</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -649,7 +660,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="feat: 提交leetcode算法“435.无重叠区间”、“763.划分字母区间”、“416.分割等和子集”的题解;" />
     <MESSAGE value="feat: 提交leetcode算法“1049.最后一块石头的重量II”、“494.目标和”、“474.一和零”的题解;" />
     <MESSAGE value="feat: 修改leetcode算法“474.一和零”的题解;" />
     <MESSAGE value="feat: 提交leetcode算法“518.零钱兑换 II”、“377.组合总和 Ⅳ”的题解;" />
@@ -674,7 +684,8 @@
     <MESSAGE value="feat: 提交leetcode算法“797.所有可能的路径”的题解;" />
     <MESSAGE value="feat: 提交leetcode算法“200.岛屿数量”的题解;" />
     <MESSAGE value="feat: 提交leetcode算法“695.岛屿的最大面积”的题解;" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 提交leetcode算法“695.岛屿的最大面积”的题解;" />
+    <MESSAGE value="feat: 提交leetcode算法“1020.飞地的数量”的题解;" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 提交leetcode算法“1020.飞地的数量”的题解;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -683,6 +694,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/jiejieren/string/kmp/Algorithm459_repeated_substring_pattern.java</url>
           <line>34</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jiejieren/Main.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jiejieren/Main.java</url>
+          <line>150</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
