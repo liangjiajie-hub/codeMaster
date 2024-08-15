@@ -4,41 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91d67ec4-d6fc-47f2-b8e9-0148375843cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/Main.java" afterDir="false" />
+    <list default="true" id="8a55cb2d-3466-4f84-9a8c-b848dc22bdcb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/ThreadPrint.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/acm_model/InputOutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ApifoxUploaderProjectSetting.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jiejieren/back_tracking/Algorithm77_combine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jiejieren/back_tracking/Algorithm77_combine.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="HARD" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitToolBoxStore">
-    <option name="projectConfigVersion" value="5" />
-  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;liangjiajie-hub&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/liangjiajie-hub/codeMaster.git&quot;,
+    &quot;accountId&quot;: &quot;a7f73a34-e66e-4767-b6b4-446aef05fab9&quot;
+  }
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+        <option name="customMavenHome" value="D:/software/apache-maven-3.6.3" />
         <option name="localRepository" value="D:\maven\repository" />
-        <option name="mavenHome" value="D:/software/apache-maven-3.6.3" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
         <option name="userSettingsFile" value="D:\software\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -51,98 +55,33 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2aTR7qUz7bdiKo2ZAK8y5Lu1mfF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2kh53LkH2KZvkPl3NOPHFsUlsEA" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;Application.ThreadPrint.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/acer-pc/Desktop/大鹏jucAndjvm/并发/srcCode&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.4045977&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\learning_project\algorithm\codeMaster\src\main\java\com\jiejieren\written_examination" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.jiejieren.graph" />
-      <recent name="com.jiejieren.dp" />
-      <recent name="com.jiejieren.binary_tree" />
-      <recent name="com.jiejieren.linked_list" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Algorithm128_longest_consecutive_sequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiejieren.hot_100.Algorithm128_longest_consecutive_sequence" />
-      <module name="codeMaster" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jiejieren.hot_100.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Algorithm438_find_all_anagrams_in_a_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiejieren.hot_100.Algorithm438_find_all_anagrams_in_a_string" />
-      <module name="codeMaster" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jiejieren.hot_100.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Algorithm49_group_anagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiejieren.hot_100.Algorithm49_group_anagrams" />
-      <module name="codeMaster" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jiejieren.hot_100.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiejieren.LRUCache" />
-      <module name="codeMaster" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jiejieren.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jiejieren.Main" />
+  <component name="RunManager">
+    <configuration name="ThreadPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jiejieren.ThreadPrint" />
       <module name="codeMaster" />
       <extension name="coverage">
         <pattern>
@@ -156,530 +95,30 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Algorithm438_find_all_anagrams_in_a_string" />
-        <item itemvalue="Application.Algorithm128_longest_consecutive_sequence" />
-        <item itemvalue="Application.Algorithm49_group_anagrams" />
-        <item itemvalue="Application.LRUCache" />
+        <item itemvalue="Application.ThreadPrint" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.387" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.387" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="91d67ec4-d6fc-47f2-b8e9-0148375843cc" name="Changes" comment="" />
-      <created>1704340418227</created>
+      <changelist id="8a55cb2d-3466-4f84-9a8c-b848dc22bdcb" name="Changes" comment="" />
+      <created>1723722769664</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1704340418227</updated>
-      <workItem from="1704340420671" duration="700000" />
-      <workItem from="1704341130827" duration="5746000" />
-      <workItem from="1704354430144" duration="260000" />
-      <workItem from="1704417568561" duration="13205000" />
-      <workItem from="1704631512439" duration="21000" />
-      <workItem from="1705580955542" duration="14040000" />
-      <workItem from="1705735869398" duration="3538000" />
-      <workItem from="1705739865318" duration="4716000" />
-      <workItem from="1706016689094" duration="19197000" />
-      <workItem from="1706235641053" duration="10395000" />
-      <workItem from="1706277986812" duration="13000" />
-      <workItem from="1706507999298" duration="8394000" />
-      <workItem from="1706752296057" duration="4077000" />
-      <workItem from="1707053668865" duration="5002000" />
-      <workItem from="1707112671421" duration="2000" />
-      <workItem from="1707122991916" duration="2234000" />
-      <workItem from="1707216464798" duration="2783000" />
-      <workItem from="1707388492337" duration="605000" />
-      <workItem from="1708483892441" duration="47000" />
-      <workItem from="1708501554500" duration="2000" />
-      <workItem from="1708503538527" duration="7000" />
-      <workItem from="1708584244077" duration="1702000" />
-      <workItem from="1708661955591" duration="3516000" />
-      <workItem from="1708670318596" duration="73000" />
-      <workItem from="1708670399516" duration="1971000" />
-      <workItem from="1708674430983" duration="2924000" />
-      <workItem from="1708697886503" duration="677000" />
-      <workItem from="1708839060636" duration="41000" />
-      <workItem from="1708847270607" duration="2200000" />
-      <workItem from="1708861410983" duration="14704000" />
-      <workItem from="1709013891591" duration="4408000" />
-      <workItem from="1709020550629" duration="2151000" />
-      <workItem from="1709124793024" duration="8166000" />
-      <workItem from="1709190110852" duration="8344000" />
-      <workItem from="1709276359322" duration="18488000" />
-      <workItem from="1709379277406" duration="4986000" />
-      <workItem from="1709448300729" duration="2376000" />
-      <workItem from="1709451963920" duration="929000" />
-      <workItem from="1709465446573" duration="639000" />
-      <workItem from="1709528035796" duration="8269000" />
-      <workItem from="1709619767960" duration="743000" />
-      <workItem from="1709685307366" duration="16426000" />
-      <workItem from="1709821921461" duration="66000" />
-      <workItem from="1709822003564" duration="841000" />
-      <workItem from="1709822855314" duration="1026000" />
-      <workItem from="1709859985321" duration="1332000" />
-      <workItem from="1709908341881" duration="9874000" />
-      <workItem from="1710134413031" duration="14000" />
-      <workItem from="1710140690949" duration="17000" />
-      <workItem from="1710141222246" duration="531000" />
-      <workItem from="1710141795226" duration="1000" />
-      <workItem from="1710141881901" duration="522000" />
-      <workItem from="1710142420165" duration="42000" />
-      <workItem from="1710142467583" duration="103000" />
-      <workItem from="1710142581601" duration="12104000" />
-      <workItem from="1710208957758" duration="45000" />
-      <workItem from="1710209013702" duration="18810000" />
-      <workItem from="1710340439522" duration="8068000" />
-      <workItem from="1710399462307" duration="3986000" />
-      <workItem from="1710465892828" duration="781000" />
-      <workItem from="1710476966582" duration="352000" />
-      <workItem from="1710551960974" duration="742000" />
-      <workItem from="1710561796939" duration="890000" />
-      <workItem from="1710593855859" duration="2003000" />
-      <workItem from="1710680341857" duration="2071000" />
-      <workItem from="1710685514887" duration="225000" />
-      <workItem from="1710724576502" duration="3913000" />
-      <workItem from="1710730446232" duration="2000" />
-      <workItem from="1710768486010" duration="25000" />
-      <workItem from="1710814983707" duration="4096000" />
-      <workItem from="1710828300879" duration="4000" />
-      <workItem from="1710895537182" duration="5659000" />
-      <workItem from="1710911257763" duration="808000" />
-      <workItem from="1710998216580" duration="2160000" />
-      <workItem from="1711001809941" duration="8000" />
-      <workItem from="1711004866013" duration="8000" />
-      <workItem from="1711070204193" duration="1878000" />
-      <workItem from="1711074666811" duration="11000" />
-      <workItem from="1711114096231" duration="1631000" />
-      <workItem from="1711262977677" duration="7881000" />
-      <workItem from="1711285047907" duration="8668000" />
-      <workItem from="1711339377566" duration="819000" />
-      <workItem from="1711426544495" duration="307000" />
-      <workItem from="1711587604602" duration="7930000" />
-      <workItem from="1711721513870" duration="1557000" />
-      <workItem from="1711794663570" duration="599000" />
-      <workItem from="1711796194644" duration="8000" />
-      <workItem from="1711796256911" duration="3226000" />
-      <workItem from="1711801750619" duration="3000" />
-      <workItem from="1711802405466" duration="5735000" />
-      <workItem from="1711874057997" duration="4418000" />
-      <workItem from="1711952033867" duration="233000" />
-      <workItem from="1711952564001" duration="2904000" />
-      <workItem from="1712024149080" duration="265000" />
-      <workItem from="1712024482032" duration="1455000" />
-      <workItem from="1712038861260" duration="228000" />
-      <workItem from="1712042956424" duration="61000" />
-      <workItem from="1712146057503" duration="8095000" />
-      <workItem from="1712293694341" duration="766000" />
-      <workItem from="1712295017319" duration="5000" />
-      <workItem from="1712315945908" duration="782000" />
-      <workItem from="1712455434592" duration="9304000" />
-      <workItem from="1712843102387" duration="794000" />
-      <workItem from="1712901078499" duration="12000" />
-      <workItem from="1712977854262" duration="694000" />
-      <workItem from="1713420084004" duration="298000" />
-      <workItem from="1713420393480" duration="152000" />
-      <workItem from="1713439805763" duration="1953000" />
-      <workItem from="1713442635271" duration="215000" />
-      <workItem from="1713442864389" duration="642000" />
-      <workItem from="1713490591063" duration="967000" />
-      <workItem from="1713662554370" duration="1486000" />
-      <workItem from="1713667471042" duration="864000" />
-      <workItem from="1713836345477" duration="5092000" />
-      <workItem from="1713855101287" duration="685000" />
-      <workItem from="1713855973139" duration="370000" />
-      <workItem from="1713924838432" duration="2291000" />
-      <workItem from="1713945764810" duration="751000" />
-      <workItem from="1713964351439" duration="78000" />
-      <workItem from="1714025386532" duration="200000" />
-      <workItem from="1714026026202" duration="4000" />
-      <workItem from="1714136826759" duration="3321000" />
-      <workItem from="1714205092286" duration="5000" />
-      <workItem from="1714304910464" duration="340000" />
-      <workItem from="1714306038778" duration="835000" />
-      <workItem from="1714307008413" duration="1043000" />
-      <workItem from="1715586277682" duration="2225000" />
-      <workItem from="1715594292520" duration="23000" />
-      <workItem from="1715748473686" duration="977000" />
-      <workItem from="1715750017607" duration="2909000" />
-      <workItem from="1715842857414" duration="19000" />
-      <workItem from="1715910358133" duration="3216000" />
-      <workItem from="1715929796806" duration="28000" />
-      <workItem from="1715945449825" duration="602000" />
-      <workItem from="1716107478212" duration="823000" />
-      <workItem from="1716451742435" duration="969000" />
-      <workItem from="1716712925904" duration="715000" />
-      <workItem from="1716858399739" duration="1419000" />
-      <workItem from="1716896393738" duration="8925000" />
-      <workItem from="1716957795496" duration="1109000" />
-      <workItem from="1717054630804" duration="3900000" />
-      <workItem from="1717122772345" duration="6000" />
-      <workItem from="1717399716669" duration="1065000" />
-      <workItem from="1717401660142" duration="1979000" />
-      <workItem from="1719056479916" duration="1026000" />
-      <workItem from="1720703700037" duration="5307000" />
-      <workItem from="1720834620395" duration="7323000" />
-      <workItem from="1720847443381" duration="3668000" />
-      <workItem from="1720874802850" duration="49000" />
-      <workItem from="1720874868014" duration="11000" />
-      <workItem from="1721128896888" duration="2000" />
-      <workItem from="1721180542012" duration="10601000" />
-      <workItem from="1721375143991" duration="638000" />
-      <workItem from="1721788835309" duration="724000" />
-      <workItem from="1721827599165" duration="1825000" />
-      <workItem from="1721915756406" duration="2106000" />
-      <workItem from="1722080905489" duration="1464000" />
-      <workItem from="1722141915646" duration="4488000" />
-      <workItem from="1722176972590" duration="6000" />
-      <workItem from="1722226745155" duration="1163000" />
-      <workItem from="1722322720554" duration="1037000" />
-      <workItem from="1722337763534" duration="24000" />
+      <updated>1723722769664</updated>
+      <workItem from="1723722771408" duration="1248000" />
+      <workItem from="1723724032629" duration="137000" />
+      <workItem from="1723724179708" duration="383000" />
     </task>
-    <task id="LOCAL-00001" summary="feat:提交leetcode算法“617.合并二叉树”题解;">
-      <created>1709617744463</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1709617744463</updated>
-    </task>
-    <task id="LOCAL-00002" summary="feat:提交leetcode算法“617.合并二叉树”题解;">
-      <created>1709617771601</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1709617771601</updated>
-    </task>
-    <task id="LOCAL-00003" summary="feat:提交leetcode算法“98.验证二叉搜索树”、“700.二叉搜索树中的搜索”、“530.二叉搜索树的最小绝对差”、“501.二叉搜索树中的众数”的题解;">
-      <created>1709711146082</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1709711146082</updated>
-    </task>
-    <task id="LOCAL-00004" summary="feat:提交leetcode算法“236.二叉树的最近公共祖先”的题解;">
-      <created>1709823877187</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1709823877187</updated>
-    </task>
-    <task id="LOCAL-00005" summary="feat:提交leetcode算法“235.二叉搜索树的最近公共祖先”的题解;">
-      <created>1709958077060</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1709958077060</updated>
-    </task>
-    <task id="LOCAL-00006" summary="feat:提交leetcode算法“450.删除二叉搜索树中的节点”、“669.修剪二叉搜索树”、“701.二叉搜索树中的插入操作”的题解;">
-      <created>1709965479588</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1709965479588</updated>
-    </task>
-    <task id="LOCAL-00007" summary="feat:提交leetcode算法“450.删除二叉搜索树中的节点”、“669.修剪二叉搜索树”、“701.二叉搜索树中的插入操作”的题解;">
-      <created>1710143400518</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1710143400518</updated>
-    </task>
-    <task id="LOCAL-00008" summary="feat:提交leetcode算法“77.组合”、“108.将有序数组转换为二叉搜索树”、“538.把二叉搜索树转换为累加树”的题解;">
-      <created>1710208862119</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1710208862119</updated>
-    </task>
-    <task id="LOCAL-00009" summary="feat: 提交leetcode算法“216.组合总和III”、“17.电话号码的字母组合”、“39.组合总和”、“40.组合总和II”、“131.分割回文串”的题解;">
-      <created>1710338008089</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1710338008089</updated>
-    </task>
-    <task id="LOCAL-00010" summary="feat: 提交leetcode算法“93.复原IP地址”、“78.子集”、“90.子集II”、“491.非递减子序列”的题解;">
-      <created>1710413757843</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1710413757843</updated>
-    </task>
-    <task id="LOCAL-00011" summary="feat: 提交leetcode算法“455.分发饼干”、“376.摆动序列”的题解;">
-      <created>1710477243391</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1710477243391</updated>
-    </task>
-    <task id="LOCAL-00012" summary="feat: 提交leetcode算法“122.买卖股票的最佳时机 II”、“53. 最大子数组和”的题解;">
-      <created>1710565793610</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1710565793610</updated>
-    </task>
-    <task id="LOCAL-00013" summary="feat: 提交leetcode算法“47.全排列 II”、“46.全排列”的题解;">
-      <created>1710596150345</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1710596150346</updated>
-    </task>
-    <task id="LOCAL-00014" summary="feat: 提交leetcode算法“332.重新安排行程”、“70.爬楼梯”、“509.斐波那契数”、“746.使用最小花费爬楼梯”、“62.不同路径”的题解;">
-      <created>1710728880508</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1710728880508</updated>
-    </task>
-    <task id="LOCAL-00015" summary="feat: 提交leetcode算法“45.跳跃游戏 II”、“55.跳跃游戏”、“63.不同路径 II”、“96.不同的二叉搜索树”、“134.加油站”、“343.整数拆分”、“1005.K 次取反后最大化的数组和”的题解;">
-      <created>1710998881669</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1710998881669</updated>
-    </task>
-    <task id="LOCAL-00016" summary="feat: 提交leetcode算法“135.分发糖果”、“406.根据身高重建队列”、“452.用最少数量的箭引爆气球”、“860.柠檬水找零”的题解;">
-      <created>1711263118000</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1711263118000</updated>
-    </task>
-    <task id="LOCAL-00017" summary="feat: 提交leetcode算法“96.不同的二叉搜索树”题解;">
-      <created>1711263239779</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1711263239779</updated>
-    </task>
-    <task id="LOCAL-00018" summary="feat: 提交leetcode算法“435.无重叠区间”、“763.划分字母区间”、“416.分割等和子集”的题解;">
-      <created>1711589449137</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1711589449137</updated>
-    </task>
-    <task id="LOCAL-00019" summary="feat: 提交leetcode算法“1049.最后一块石头的重量II”、“494.目标和”、“474.一和零”的题解;">
-      <created>1711868619326</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1711868619326</updated>
-    </task>
-    <task id="LOCAL-00020" summary="feat: 修改leetcode算法“474.一和零”的题解;">
-      <created>1711952089881</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1711952089881</updated>
-    </task>
-    <task id="LOCAL-00021" summary="feat: 提交leetcode算法“518.零钱兑换 II”、“377.组合总和 Ⅳ”的题解;">
-      <created>1712024354862</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1712024354862</updated>
-    </task>
-    <task id="LOCAL-00022" summary="feat: 提交leetcode算法“322.零钱兑换”的题解;">
-      <created>1712030269356</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1712030269356</updated>
-    </task>
-    <task id="LOCAL-00023" summary="feat: 修改leetcode算法“322.零钱兑换”的题解;">
-      <created>1712038891236</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1712038891236</updated>
-    </task>
-    <task id="LOCAL-00024" summary="feat: 提交leetcode算法“279.完全平方数”的题解;">
-      <created>1712148334462</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1712148334462</updated>
-    </task>
-    <task id="LOCAL-00025" summary="feat: 提交leetcode算法“337.打家劫舍 III”、“121.买卖股票的最佳时机”、“122.买卖股票的最佳时机 II”、“123.买卖股票的最佳时机 III”、“139.单词拆分”、“198.打家劫舍”、“213.打家劫舍 II”的题解;">
-      <created>1712539517351</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1712539517351</updated>
-    </task>
-    <task id="LOCAL-00026" summary="feat: 提交leetcode算法“188.买卖股票的最佳时机IV”、“309.最佳买卖股票时机含冷冻期”的题解;">
-      <created>1712542197019</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1712542197019</updated>
-    </task>
-    <task id="LOCAL-00027" summary="feat: 提交leetcode算法“714.买卖股票的最佳时机含手续费”、“300.最长递增子序列”、“674.最长连续递增序列”的题解;">
-      <created>1712978197017</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1712978197017</updated>
-    </task>
-    <task id="LOCAL-00028" summary="feat: 提交leetcode算法“718.最长重复子数组”的题解;">
-      <created>1713420251032</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1713420251032</updated>
-    </task>
-    <task id="LOCAL-00029" summary="feat: 提交leetcode算法“1143.最长公共子序列”的题解;">
-      <created>1713662621044</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1713662621044</updated>
-    </task>
-    <task id="LOCAL-00030" summary="feat: 提交leetcode算法“1035.不相交的线”的题解;">
-      <created>1713663727988</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1713663727988</updated>
-    </task>
-    <task id="LOCAL-00031" summary="feat: 提交leetcode算法“583.两个字符串的删除操作”的题解;">
-      <created>1713667575629</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1713667575629</updated>
-    </task>
-    <task id="LOCAL-00032" summary="feat: 提交leetcode算法“392.判断子序列”、“72.编辑距离”的题解;">
-      <created>1713841537603</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1713841537603</updated>
-    </task>
-    <task id="LOCAL-00033" summary="feat: 提交leetcode算法“647.回文子串”的题解;">
-      <created>1713945916202</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1713945916202</updated>
-    </task>
-    <task id="LOCAL-00034" summary="feat: 提交leetcode算法“516.最长回文子序列”的题解;">
-      <created>1714025500215</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1714025500215</updated>
-    </task>
-    <task id="LOCAL-00035" summary="feat: 提交leetcode算法“115.不同的子序列”的题解;">
-      <created>1714201841256</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1714201841256</updated>
-    </task>
-    <task id="LOCAL-00036" summary="feat: 提交leetcode算法“739.每日温度”的题解;">
-      <created>1715588738831</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1715588738831</updated>
-    </task>
-    <task id="LOCAL-00037" summary="feat: 提交leetcode算法“496.下一个更大元素 I”的题解;">
-      <created>1715590090776</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1715590090776</updated>
-    </task>
-    <task id="LOCAL-00038" summary="feat: 提交leetcode算法“503.下一个更大元素 II”的题解;">
-      <created>1715748591166</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1715748591166</updated>
-    </task>
-    <task id="LOCAL-00039" summary="feat: 提交leetcode算法“503.下一个更大元素 II”、“42.接雨水”的题解;">
-      <created>1715752165157</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1715752165157</updated>
-    </task>
-    <task id="LOCAL-00040" summary="feat: 提交leetcode算法“503.下一个更大元素 II”、“42.接雨水”的题解;">
-      <created>1715752200746</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1715752200746</updated>
-    </task>
-    <task id="LOCAL-00041" summary="feat: 提交leetcode算法“797.所有可能的路径”的题解;">
-      <created>1715841373996</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1715841373996</updated>
-    </task>
-    <task id="LOCAL-00042" summary="feat: 提交leetcode算法“200.岛屿数量”的题解;">
-      <created>1715914955405</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1715914955405</updated>
-    </task>
-    <task id="LOCAL-00043" summary="feat: 提交leetcode算法“200.岛屿数量”的题解;">
-      <created>1715914988405</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1715914988405</updated>
-    </task>
-    <task id="LOCAL-00044" summary="feat: 提交leetcode算法“695.岛屿的最大面积”的题解;">
-      <created>1716452051578</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1716452051578</updated>
-    </task>
-    <task id="LOCAL-00045" summary="feat: 提交leetcode算法“1020.飞地的数量”的题解;">
-      <created>1716858722094</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1716858722094</updated>
-    </task>
-    <task id="LOCAL-00046" summary="feat: 提交leetcode算法“146.LRU 缓存”的题解;">
-      <created>1717399871814</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1717399871814</updated>
-    </task>
-    <task id="LOCAL-00047" summary="feat: 提交leetcode算法“130.被围绕的区域”的题解;">
-      <created>1717426794430</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1717426794430</updated>
-    </task>
-    <task id="LOCAL-00048" summary="feat: 提交leetcode算法“130.被围绕的区域”、“417.太平洋大西洋水流问题”的题解;">
-      <created>1717586318965</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1717586318965</updated>
-    </task>
-    <task id="LOCAL-00054" summary="feat: 提交leetcode算法“73.矩阵置零”的题解;">
-      <option name="closed" value="true" />
-      <created>1722324248714</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1722324248714</updated>
-    </task>
-    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -707,48 +146,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/.." />
-    </ignored-roots>
-    <MESSAGE value="feat: 提交leetcode算法“714.买卖股票的最佳时机含手续费”、“300.最长递增子序列”、“674.最长连续递增序列”的题解;" />
-    <MESSAGE value="feat: 提交leetcode算法“718.最长重复子数组”的题解;" />
-    <MESSAGE value="feat: 提交leetcode算法“1143.最长公共子序列”的题解;" />
-    <MESSAGE value="feat: 提交leetcode算法“1035.不相交的线”的题解;" />
-    <MESSAGE value="feat: 提交leetcode算法“583.两个字符串的删除操作”的题解;" />
-    <MESSAGE value="feat: 提交leetcode算法“392.判断子序列”、“72.编辑距离”的题解;" />
-    <MESSAGE value="feat: 提交leetcode算法“647.回文子串”的题解;" />
-    <MESSAGE value="feat: 提交leetcode算法“516.最长回文子序列”的题解;" />
-    <MESSAGE value="feat: 提交leetcode算法“115.不同的子序列”的题解;" />
-    <MESSAGE value="feat: 提交leetcode算法“739.每日温度”的题解;" />
-    <MESSAGE value="feat: 提交leetcode算法“496.下一个更大元素 I”的题解;" />
-    <MESSAGE value="feat: 提交leetcode算法“503.下一个更大元素 II”的题解;" />
-    <MESSAGE value="feat: 提交leetcode算法“503.下一个更大元素 II”、“42.接雨水”的题解;" />
-    <MESSAGE value="feat: 提交leetcode算法“797.所有可能的路径”的题解;" />
-    <MESSAGE value="feat: 提交leetcode算法“200.岛屿数量”的题解;" />
-    <MESSAGE value="feat: 提交leetcode算法“695.岛屿的最大面积”的题解;" />
-    <MESSAGE value="feat: 提交leetcode算法“1020.飞地的数量”的题解;" />
-    <MESSAGE value="feat: 提交leetcode算法“146.LRU 缓存”的题解;" />
-    <MESSAGE value="feat: 提交leetcode算法“130.被围绕的区域”的题解;" />
-    <MESSAGE value="feat: 提交leetcode算法“130.被围绕的区域”、“417.太平洋大西洋水流问题”的题解;" />
-    <MESSAGE value="feat: 提交leetcode算法“49.字母异位词分组”、“128.最长连续序列”的题解;" />
-    <MESSAGE value="feat: 提交leetcode算法“438.找到字符串中所有字母异位词”的题解;" />
-    <MESSAGE value="feat: 提交leetcode算法“560.和为 K 的子数组”、“11.盛最多水的容器”、“56.合并区间”的题解;" />
-    <MESSAGE value="feat: 提交leetcode算法“238.除自身以外数组的乘积”的题解;" />
-    <MESSAGE value="feat: 提交leetcode算法“73.矩阵置零”的题解;" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 提交leetcode算法“73.矩阵置零”的题解;" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/jiejieren/string/kmp/Algorithm459_repeated_substring_pattern.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
